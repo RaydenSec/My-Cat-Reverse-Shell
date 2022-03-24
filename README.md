@@ -1,6 +1,6 @@
 # My-Cat-Reverse-Shell
 
-A python reverse shell I coded at the end of year 12 in 2021 using mainly sockets. My test project that I have uploaded onto GitHub. 
+A python reverse shell (I think) I coded at the end of year 12 in 2021 using mainly sockets. My test project that I have uploaded onto GitHub. Btw, this project is not completely finished, and has a few bugs as I haven't been bothered fixing it yet... 
 
 How to Use: 
 1. Make sure to change the target IP to your target's IP address (target needs to be on the same network as you) 
