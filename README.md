@@ -1,6 +1,6 @@
 # My-Cat-Reverse-Shell
 
-A python reverse shell (I think) I coded at the end of year 12 in 2021 using mainly sockets. My test project that I have uploaded onto GitHub. Btw, this project is not completely finished, and has a few bugs as I haven't been bothered fixing it yet... 
+A python reverse shell like program, not really..., that I coded at the end of year 12 in 2021 using mainly sockets. This is a test project that I have uploaded onto GitHub to test how Github works. Btw, this project is not completely finished, and has a few bugs as I haven't been bothered fixing it yet... (eg. Can only copy images over from other computers, not txt files, probably due to an incorrect implementation of the byte transfer function, I'll fix it later :) ) 
 
 How to Use: 
 1. Make sure to change the target IP to your target's IP address (target needs to be on the same network as you) 
